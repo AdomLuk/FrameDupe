@@ -6,7 +6,7 @@
 
     <groupId>me.hexa</groupId>
     <artifactId>framedupe</artifactId>
-    <version>1.12</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>FrameDupe</name>
