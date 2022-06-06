@@ -3,7 +3,7 @@ version: 0
 main: me.hexa.framedupe.FrameDupe
 api-version: 0
 authors: [ Hexa ] 
-description: Plugin to dupe items when breaking an item frame based on probability
+description: Plugin to dupe items when breaking an item frame based on probability.
 website: www.3b3t.xyz - THIS PLUGIN HAS BEEN UPDATED BY ADOMLUK
 commands:
   framedupereload:
