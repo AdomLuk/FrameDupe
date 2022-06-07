@@ -6,7 +6,7 @@
 
     <groupId>me.hexa</groupId>
     <artifactId>framedupe</artifactId>
-    <version>1.0</version>
+    <version>1.19</version>
     <packaging>jar</packaging>
 
     <name>FrameDupe</name>
@@ -69,7 +69,7 @@
         <dependency>
             <groupId>com.destroystokyo.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>1.12.2-R0.1-SNAPSHOT</version>
+            <version>1.19</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
