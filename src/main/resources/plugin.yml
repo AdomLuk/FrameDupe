@@ -1,5 +1,5 @@
 name: FrameDupe
-version: 0
+version: 1.12 - 1.19
 main: me.hexa.framedupe.FrameDupe
 api-version: 0
 authors: [ Hexa ] 
